@@ -1,0 +1,11 @@
+C:\Users\nehak\source\repos\Project_2\Project_2\obj\Debug\Project_2.csprojAssemblyReference.cache
+C:\Users\nehak\source\repos\Project_2\Project_2\obj\Debug\Project_2.Properties.Resources.resources
+C:\Users\nehak\source\repos\Project_2\Project_2\obj\Debug\Project_2.csproj.GenerateResource.cache
+C:\Users\nehak\source\repos\Project_2\Project_2\obj\Debug\Project_2.csproj.CoreCompileInputs.cache
+C:\Users\nehak\source\repos\Project_2\Project_2\obj\Debug\Project_2.Form1.resources
+C:\Users\nehak\source\repos\Project_2\Project_2\bin\Debug\Project_2.exe.config
+C:\Users\nehak\source\repos\Project_2\Project_2\bin\Debug\Project_2.exe
+C:\Users\nehak\source\repos\Project_2\Project_2\bin\Debug\Project_2.pdb
+C:\Users\nehak\source\repos\Project_2\Project_2\obj\Debug\Project_2.exe
+C:\Users\nehak\source\repos\Project_2\Project_2\obj\Debug\Project_2.pdb
+C:\Users\nehak\source\repos\Project_2\Project_2\obj\Debug\Project_2.Summary.resources
